@@ -1,4 +1,4 @@
-# Planeta VasLibre
+# Redimension de Imagenes
 
 script creado por: Hector A Mantellini @xombra
 Licencia GPLv2
