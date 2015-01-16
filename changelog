@@ -1,4 +1,16 @@
-commit 659dee7697e0809aca3243cdf8de360e64e031b6 (HEAD, origin/master, origin/HEAD, master)
+commit 4bc08383594222e74d40874a24e38c02efb20532 (HEAD, origin/master, origin/HEAD, master)
+Author: xombra <xombra.com@gmail.com>
+Date:   Fri Jan 16 16:05:13 2015 -0430
+
+    * cambio en el readme
+
+commit c11f34dcef26969d60ce971f1df6e13eae904cee
+Author: xombra <xombra.com@gmail.com>
+Date:   Fri Jan 16 16:04:19 2015 -0430
+
+    * changelog
+
+commit 659dee7697e0809aca3243cdf8de360e64e031b6
 Author: xombra <xombra.com@gmail.com>
 Date:   Fri Jan 16 16:03:46 2015 -0430
 
