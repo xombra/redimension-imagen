@@ -1,0 +1,11 @@
+commit 659dee7697e0809aca3243cdf8de360e64e031b6 (HEAD, origin/master, origin/HEAD, master)
+Author: xombra <xombra.com@gmail.com>
+Date:   Fri Jan 16 16:03:46 2015 -0430
+
+    * Script para redimensionar imagenes - hay que mejorarlo
+
+commit be9a6eef4ec82ec376abdd5431e5567c6565f885
+Author: Hector A. Mantellini <xombra@users.noreply.github.com>
+Date:   Fri Jan 16 16:00:37 2015 -0430
+
+    Initial commit
