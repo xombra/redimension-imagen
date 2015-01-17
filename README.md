@@ -1,8 +1,10 @@
 # Redimension de Imagenes
 
 script creado por: Hector A Mantellini @xombra
+
 Modificado y optimizado por Jesus Palencia @sinfallas
-Licencia GPLv2
+
+Bajo Licencia GPLv2
 
 Necesario tener instalado ImageMagick
 sudo apt install imagemagick
