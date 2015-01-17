@@ -19,8 +19,7 @@ if [[ -f /usr/bin/mogrify ]]; then
  	echo "Caracteristicas:"
  	echo "Carpeta principal: "$1" | Ancho: "$2"px | Tipo: "$3
  	echo "Esto puede tardar dependiendo de la cantidad de imagenes"
- 	for linea in $(cat temp.txt)
-   		do
+ 	for linea in $(cat temp.txt); do
    		cd $1/$linea/
    		echo "*** Redimensionando imagenes de: $1/$linea/" 
    		mogrify -resize $2 *.$3
