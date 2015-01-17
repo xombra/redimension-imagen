@@ -11,13 +11,13 @@
 #
 # NOTA IMPORTANTE: el nombre de las carpetas no deben contender espacios en Blanco
 if [[ -f /usr/bin/mogrify ]]; then
-	echo "Leyendo Director $1"
+	echo "Leyendo Director" $1
  	echo "Creando archivo temporal de lista de imagenes a procesar"
  	cd $1
- 	ls -d * > "temp.txt"
+ 	ls -d * > temp.txt
  	echo "Redimensionando imagenes..."
  	echo "Caracteristicas:"
- 	echo "Carpeta principal: $1 | Ancho: $2px | Tipo: $3"
+ 	echo "Carpeta principal: "$1" | Ancho: "$2"px | Tipo: "$3
  	echo "Esto puede tardar dependiendo de la cantidad de imagenes"
  	for linea in $(cat temp.txt)
    		do
