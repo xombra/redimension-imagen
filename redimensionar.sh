@@ -10,7 +10,7 @@
 # $3 = tipo de imagen
 #
 # ejemplo de uso:
-# ./redimensiona.sh /home/xombra/Escritorio/otras 800 jpg
+# ./redimensiona.sh /home/TU_USUARIO/Escritorio/otras 800 jpg
 #
 # NOTA IMPORTANTE: el nombre de las carpetas no deben contender espacios en Blanco
 if [[ -f /usr/bin/mogrify ]]; then
