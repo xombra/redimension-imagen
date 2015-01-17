@@ -1,11 +1,14 @@
 #!/bin/bash
-# script creado por: Hector A Mantellini @xombra
-# Licencia GPLv2
+# creado por: Hector A Mantellini @xombra
+# Modificado y optimizado por Jesus Palencia @sinfallas
+#
+#Bajo Licencia GPLv2
 #
 # Debe indicar la ruta completa donde realizara la redimension
 # $1 = ruta de la imagen -> /home/TUSUARIO/Escritorio/otras/
 # $2 = ancho de la imagen
 # $3 = tipo de imagen
+#
 # ejemplo de uso:
 # ./redimensiona.sh /home/xombra/Escritorio/otras 800 jpg
 #
