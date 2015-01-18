@@ -1,4 +1,79 @@
-commit 4bc08383594222e74d40874a24e38c02efb20532 (HEAD, origin/master, origin/HEAD, master)
+commit 2c104fc331e41a1c6ec00197c3e09074500fb8f3 (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Sat Jan 17 22:19:43 2015 -0430
+
+    * se agrega trap
+
+commit 8347f002d7c328e7fefecb7f1650b46a0a0ddecf
+Author: Hector A. Mantellini <xombra@users.noreply.github.com>
+Date:   Sat Jan 17 12:05:06 2015 -0430
+
+    Update redimensionar.sh
+
+commit 44304f240775e9582b603f5cb0a629c243773dbe
+Author: Hector A. Mantellini <xombra@users.noreply.github.com>
+Date:   Sat Jan 17 12:04:29 2015 -0430
+
+    Update redimensionar.sh
+
+commit b3c014e3297bdeb52b939898e13b708c40138425
+Author: Hector A. Mantellini <xombra@users.noreply.github.com>
+Date:   Sat Jan 17 12:03:06 2015 -0430
+
+    Update README.md
+
+commit 0565d1df322ea556a80434ebdb9b1cc98c9da2dc
+Author: Hector A. Mantellini <xombra@users.noreply.github.com>
+Date:   Sat Jan 17 11:59:54 2015 -0430
+
+    Update README.md
+
+commit 65661494aa34e2735776e6d428a45a45a8a033fe
+Merge: fac0b5c a0b70da
+Author: Hector A. Mantellini <xombra@users.noreply.github.com>
+Date:   Sat Jan 17 11:57:39 2015 -0430
+
+    Merge pull request #1 from sinfallas/master
+    
+    primeras modificaciones
+
+commit a0b70da6b0a722f1ce069be3a68dace961d58a64
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Sat Jan 17 11:54:08 2015 -0430
+
+    * se mejora la forma del FOR
+
+commit 5f14ceff2bd78c5fdb73b21eca65befcb38440ff
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Sat Jan 17 11:51:45 2015 -0430
+
+    * se corrige un error en echo
+
+commit 4cb326f4bdd95293fa66d6b01b254816f5acd270
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Sat Jan 17 11:47:14 2015 -0430
+
+    * se agrega comprobacion de la existencia de mogrify
+
+commit fac0b5ce4a201fe552dfbb3f847da49713081639
+Author: Hector A. Mantellini <xombra@users.noreply.github.com>
+Date:   Fri Jan 16 16:07:27 2015 -0430
+
+    Update README.md
+
+commit 09b2de667787478435a513579ec289a5bd0fe973
+Author: Hector A. Mantellini <xombra@users.noreply.github.com>
+Date:   Fri Jan 16 16:07:00 2015 -0430
+
+    Update README.md
+
+commit 3226234c7250da0358edeaa21059b625034c5341
+Author: xombra <xombra.com@gmail.com>
+Date:   Fri Jan 16 16:05:36 2015 -0430
+
+    * changelog
+
+commit 4bc08383594222e74d40874a24e38c02efb20532
 Author: xombra <xombra.com@gmail.com>
 Date:   Fri Jan 16 16:05:13 2015 -0430
 
