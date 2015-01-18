@@ -1,4 +1,16 @@
-commit 2c104fc331e41a1c6ec00197c3e09074500fb8f3 (HEAD, origin/master, origin/HEAD, master)
+commit 7d156f0ef3e47461872bb7ce594e38dc65feba12 (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Sat Jan 17 22:22:24 2015 -0430
+
+    * se agrega informacion de la licencia
+
+commit bf0832c34ae084a79e5c26bfd0e52d5209a1a0dd
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Sat Jan 17 22:20:03 2015 -0430
+
+    * changelog
+
+commit 2c104fc331e41a1c6ec00197c3e09074500fb8f3
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Sat Jan 17 22:19:43 2015 -0430
 
