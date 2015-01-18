@@ -13,18 +13,19 @@
 # ./redimensiona.sh /home/TU_USUARIO/Escritorio/otras 800 jpg
 #
 # NOTA IMPORTANTE: el nombre de las carpetas no deben contender espacios en Blanco
-trap "rm -f /run/redimensionar.pid; rm -f $(pwd)/$1/temp.txt; exit" INT TERM EXIT
+temp=/tmp/temp.txt
+trap "rm -f /run/redimensionar.pid; rm -f $temp; exit" INT TERM EXIT
 echo $BASHPID > /run/redimensionar.pid
 if [[ -f /usr/bin/mogrify ]]; then
 	echo "Leyendo Director" $1
  	echo "Creando archivo temporal de lista de imagenes a procesar"
  	cd $1
- 	ls -d * > temp.txt
+ 	ls -d * > $temp
  	echo "Redimensionando imagenes..."
  	echo "Caracteristicas:"
  	echo "Carpeta principal: "$1" | Ancho: "$2"px | Tipo: "$3
  	echo "Esto puede tardar dependiendo de la cantidad de imagenes"
- 	for linea in $(cat temp.txt); do
+ 	for linea in $(cat $temp); do
    		cd $1/$linea/
    		echo "*** Redimensionando imagenes de: $1/$linea/" 
    		mogrify -resize $2 *.$3
@@ -36,6 +37,6 @@ else
 	echo "Error imagemagick no se encuentra instalado."
 fi
 rm -f /run/redimensionar.pid
-rm -f $(pwd)/$1/temp.txt
+rm -f $temp
 trap - INT TERM EXIT
 exit 0
