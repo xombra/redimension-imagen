@@ -1,4 +1,16 @@
-commit 7d156f0ef3e47461872bb7ce594e38dc65feba12 (HEAD, origin/master, origin/HEAD, master)
+commit 539369d5fc6932c5c82902ea065240d94d70831f (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Sun Jan 18 13:41:36 2015 -0430
+
+    * se simplifican rutas de archivos
+
+commit 955cd90db1f0ac041fa067806987d857da758312 (tag: v0.1)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Sat Jan 17 22:22:47 2015 -0430
+
+    * changelog
+
+commit 7d156f0ef3e47461872bb7ce594e38dc65feba12
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Sat Jan 17 22:22:24 2015 -0430
 
