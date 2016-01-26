@@ -2,7 +2,7 @@
 
 script creado por: Hector A Mantellini @xombra
 
-Modificado y optimizado por Jesus Palencia @sinfallas
+Modificado y optimizado por Jesus Palencia sinfallas@gmail.com
 
 Bajo Licencia GPLv2
 
